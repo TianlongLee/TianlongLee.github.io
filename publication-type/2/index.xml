@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Yang Li&#39;s Website</title>
+    <link>https://tianlonglee.github.io/publication-type/2/</link>
+      <atom:link href="https://tianlonglee.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Yang Li</copyright><lastBuildDate>Mon, 15 Nov 2021 14:28:16 +0800</lastBuildDate>
+    <image>
+      <url>https://tianlonglee.github.io/media/icon_hu15d2c9f596ce133d607e52472f13b9a6_10973_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://tianlonglee.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>N-Omniglot: a Large-scale Dataset for Spatio-temporal Sparse Few-shot Learning</title>
+      <link>https://tianlonglee.github.io/publication/2021-nomniglot/</link>
+      <pubDate>Mon, 15 Nov 2021 14:28:16 +0800</pubDate>
+      <guid>https://tianlonglee.github.io/publication/2021-nomniglot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiking CapsNet: A Spiking Neural Network With A Biologically Plausible Routing Rule Between Capsules</title>
+      <link>https://tianlonglee.github.io/publication/2021-spikingcaps/</link>
+      <pubDate>Mon, 15 Nov 2021 14:28:16 +0800</pubDate>
+      <guid>https://tianlonglee.github.io/publication/2021-spikingcaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BSNN: Towards Faster and Better Conversion of Artificial Neural Networks to Spiking Neural Networks with Bistable Neurons</title>
+      <link>https://tianlonglee.github.io/publication/2021-bsnn/</link>
+      <pubDate>Sat, 13 Mar 2021 14:28:16 +0800</pubDate>
+      <guid>https://tianlonglee.github.io/publication/2021-bsnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
